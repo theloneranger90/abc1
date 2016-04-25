@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- share by XBMC Malaysia Group -->
+
+
+<item>
+<title>Brunei - RTB 4</title>
+<link>http://202.93.220.194:8081/stream.flv</link>
+<thumbnail>http://m.c.lnkd.licdn.com/media/p/2/000/07c/176/3f9cc40.png</thumbnail>
+</item>
+
+<item>
+<title>General - Animal Planet</title>
+<link>http://202.75.23.34:8800/live/ch31/03.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>General - Animal Planet HD</title>
+<link>http://90.189.178.110:35555/udp/233.7.70.225:5000</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20091126085356/logopedia/images/e/e8/Animal_Planet_HD_2007.png</thumbnail>
+</item>
+
+<item>
+<title>General - BIO</title>
+<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+<thumbnail>http://www.jasongoodman.tv/wp-content/uploads/2009/11/bio-logo-copy.png</thumbnail>
+</item>
+
+<item>
+<title>General - Crime Investigation</title>
+<link>http://202.75.23.36:8800/live/ch47/01.m3u8</link>
+<thumbnail>http://opportunitymedia.tv/wp-content/uploads/2012/05/logo_ci1.png</thumbnail>
+</item>
+
+<item>
+<title>General - Discovery Channel HD</title>
+<link>http://202.75.23.34:8800/live/ch30/01.m3u8</link>
+<thumbnail>http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/EntertainmentExtra/HD/Discovery_hd.png_1230628745.png</thumbnail>
+</item>
+
+<item>
+<title>General - Discovery Turbo</title>
+<link>http://202.75.23.34:8800/live/ch32/01.m3u8</link>
+<thumbnail>http://tv.webactu-webtv.com/portugal/turbo.png</thumbnail>
+</item>
+
+
+<item>
+<title>General - Makkah Live</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>General - Makkah Live 2</title>
+<link>http://46.245.160.224/mekke/mekke/chunklist_w1640568201.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>General - History Channel</title>
+<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
+<thumbnail>http://brigittebarclay.com/wp-content/uploads/2011/12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>General - Travel Channel</title>
+<link>http://202.75.23.35:8800/live/ch41/01.m3u8</link>
+<thumbnail>http://www.travelchanneltv.cz/images/travelchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Kids - Baby First</title>
+<link>http://202.75.23.33:8800/live/ch27/01.m3u8</link>
+<thumbnail>http://direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png</thumbnail>
+</item>
+
+<item>
+<title>Kids - Cartoon Network</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.122:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kids - Disney Channel</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.120:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kids - Nickelodeon</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.121:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Malaysia - RTM1</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_(Malaysia).svg/220px-Logo_of_TV1_(Malaysia).svg.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - RTM2</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8</link>
+<thumbnail>http://syokmedia.com/wp-content/uploads/2014/02/TV2.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - RTMi</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8</link>
+<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - RTM Muzik Aktif</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8</link>
+<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - RTM 1News</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8</link>
+<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - TV3</title>        
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - NTV7</title>        
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/Ntv7_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - 8TV</title>        
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - Astro Awani</title>
+<link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
+<thumbnail>http://static.astroawani.com/images/astro_awani_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - Hijau TV</title>
+<link>rtmp://119.110.96.71/live/ playpath=1htv swfUrl=http://www.widih.in/player.swf live=1 pageurl=http://www.widih.in/watch-tv/933/hijau-tv/</link>
+<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/hijautv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - Kedah TV</title>
+<link>http://202.73.9.10:1935/live2/smil:kedahtv_all.smil/playlist.m3u8</link>
+<thumbnail>http://kedah.tv/themes/default/images/kedahtv.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - Mara TV</title>
+<link>http://54.254.98.181/edge/mobtv/playlist.m3u8</link>
+<thumbnail>http://www.mysenang.com/images/maratv.png</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - MYTV</title>
+<link>http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8</link>
+<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Malaysia - TV Selangor</title>
+<link>rtmp://live2.selangorku.com/selangorlive2/ playpath=channel1 swfUrl=http://www.widih.in/player.swf live=1 pageUrl=http://www.widih.in/watch-tv/370/tv-selangor/</link>
+<thumbnail>http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png</thumbnail>
+</item>
+
+<item>
+<title>Movie - Paramount Channel</title>
+<link>http://80.77.52.6:4022/udp/230.0.3.20:12345</link>
+<thumbnail>http://vertvonline.xtrweb.com/logostv/PARAMOUNT%20CHANNEL.png</thumbnail>
+</item>
+
+<item>
+<title>Movie - AXN</title>
+<link>http://176.9.45.202:19108/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>Movie - Sky Plus</title>
+<link>http://u.to/bXBXCA</link>
+<thumbnail>http://www.ixalon.net/wp-content/uploads/2009/09/sky_logo.png</thumbnail>
+</item>
+
+<item>
+<title>News - BBC World News</title>
+<link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-4siVguO80cw/Td0bglZp9lI/AAAAAAAAAfQ/mhaq2rPbA7I/s374/BBC%2Bnews%2Blogo%2B01.png</thumbnail>
+</item>
+
+<item>
+<title>News - Bloomberg TV</title>
+<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+<thumbnail>http://www.fireeye.com/images/wpcme/2011/06/BloombergTV.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Arena Sport 1</title>
+<link>http://176.9.45.202:18095/</link>
+<thumbnail>http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/arenasport1.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Arena Sport 2</title>
+<link>http://176.9.45.202:19113/</link>
+<thumbnail>http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/arenasport2.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Arena Sport 3</title>
+<link>http://176.9.45.202:19115/</link>
+<thumbnail>http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/arenasport3.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - ASN Sports</title>
+<link>http://202.75.23.33:8800/live/ch26/01.m3u8</link>
+<thumbnail>http://www.yes.tv/image/asn_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Beins Sport 1</title>
+<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/03/BeIN_Sport_1_logo_in_Indonesia.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Beins Sport 2</title>
+<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/8f/BeIN_Sport_2_Indonesia.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Dubai Racing</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.156:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sports - ESPN</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.131:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sports - Hi Sport</title>
+<link>http://103.7.57.65:1935/live/sd1/chengye.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/9b/HiTV.png/150px-HiTV.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Eurosport 1</title>
+<link>http://109.95.47.249:1919/udp/239.0.0.33:4000</link>
+<thumbnail>http://maxsymonds.com/images/Eurosport_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Eurosport 2</title>
+<link>http://109.95.47.249:1919/udp/239.0.0.81:4000</link>
+<thumbnail>http://euro-2012.tvline.net.ua/eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - OSN Sports 3</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.185:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sports - OSN Sports 4</title>
+<link>http://87.121.34.253:9987/udp/239.100.0.186:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TH - One HD</title>
+<link>http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gmm_one.png</thumbnail>
+</item>
+
+<title>Indo - Alif TV</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-aliftv/playlist.m3u8</link>
+<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/aliftv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Indo - Allegro TV</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-allegro/playlist.m3u8</link>
+<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/allegro.jpg</thumbnail>
+</item>
+
+<item>
+<title>Indo - Bali TV</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-balitv/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/jv/a/a0/Bali_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Indo - BBSTV</title>
+<link>rtmp://103.24.51.9/bbstv/ playpath=live1 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf live=1 pageUrl=http://www.widih.in/watch-tv/1271/bbstv-jawa-timur/</link>
+<thumbnail>http://www.bbstv.co.id/wp-content/uploads/2013/08/LOGO-BBSTV.png</thumbnail>
+</item>
+
+<item>
+<title>Indo - Celebes TV</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-celebestv/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/id/thumb/3/37/Wallpaper_CelebesTV2.jpg/200px-Wallpaper_CelebesTV2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Indo - Metro TV</title>
+<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-paKjVMl3UGI/TrRY9W_TnWI/AAAAAAAABjA/p6iFuFW1ilI/s1600/metro-tv-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Indo - Trans7</title>
+<link>http://202.75.23.33:8800/live/ch24/01.m3u8</link>
+<thumbnail>http://images.wikia.com/logopedia/images/archive/0/03/20120824034617!BerkasLogotrans7small.png</thumbnail>
+</item>
+
+<item>
+<title>Indo - TransTV</title>
+<link>http://202.75.23.33:8800/live/ch23/01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/id/1/1b/TRANS_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Indo - TVRI</title>
+<link>http://202.75.23.33:8800/live/ch25/01.m3u8</link>
+<thumbnail>http://live.tvidn.com/wp-content/uploads/2014/04/TVRI-Live-Streaming-Online-Channel-UseeTV-150x150.png</thumbnail>
+</item>
+
+
+
